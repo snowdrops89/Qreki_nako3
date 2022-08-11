@@ -1,5 +1,5 @@
 ＃和暦データ
-和暦データ＝「./Qreki_data.json」からAJAX_JSON取得。
+和暦データ＝「Qreki_data.json」からAJAX_JSON取得。
 元号一覧＝和暦データ["元号一覧"]。
 旧暦表＝和暦データ["旧暦表"]。
 
