@@ -16,6 +16,15 @@
 !『https://n3s.nadesi.com/plain/Qreki.nako3』を取り込む。
 ```
 
+## サンプル
+
+　一通りのテスト。
+
+> https://n3s.nadesi.com/id.php?1779
+
+　西暦または和暦を入力して、それ以後の暦データを指定した件数分だけ連続日付で一覧表示するサンプル。
+
+> https://n3s.nadesi.com/id.php?1780
 
 ## 旧暦データについて
 
